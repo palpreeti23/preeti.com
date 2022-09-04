@@ -123,6 +123,16 @@ background-color: var(--off-white);
 
 }
 
+.new-header{
+     
+    text-align: center;
+}
+
+.new-header-color{
+    color: var(--primary-color);
+    
+}
+
 .footer{
     background-color: var(--primary-color);
     padding: 2rem 1rem;
